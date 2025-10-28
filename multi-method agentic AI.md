@@ -171,5 +171,6 @@ By combining LLMs with structured systems (workflows, rules engines, data agents
 > Multi-method agentic AI = LLMs + automation + decision logic + data integration.
 
 It’s the **future architecture** for enterprise AI — adaptable, explainable, and capable of *doing real work*, not just chatting.
+<img width="1536" height="1024" alt="ChatGPT Image Oct 28, 2025, 07_41_45 PM" src="https://github.com/user-attachments/assets/b942c2da-552b-401f-9db0-8edc090d0958" />
 
 ---
