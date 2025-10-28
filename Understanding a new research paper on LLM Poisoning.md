@@ -1,5 +1,6 @@
 
-https://www.youtube.com/watch?v=AvG7QoEReSY 
+- https://www.youtube.com/watch?v=AvG7QoEReSY
+- https://www.anthropic.com/research/small-samples-poison
 ----
 ## 🧠 **Video Summary: “A Small Number of Samples Can Poison LLMs of Any Size”**
 
